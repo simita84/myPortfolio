@@ -1,0 +1,18 @@
+ 
+body{
+	color: rgba(43, 90, 27, 0.85) !important;
+	font-family: fantasy, sans-serif !important;
+	font-weight: 300 ;
+}
+.container{
+	padding: 5px;
+}
+h4{
+	font-size: 15px !important;
+  overflow:hidden;
+   word-wrap: break-word;
+}
+
+.col-md-3  a:hover{
+	padding: 2px;
+}
